@@ -1,0 +1,96 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/gabrielc/.gradle/caches/transforms-3/7355d6150310c1dc4cf9616928d7f616/transformed/appcompat-v7-23.4.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,194,268,344,403,474,542",
+                        "endColumns": "68,69,73,75,58,70,67,54",
+                        "endOffsets": "119,189,263,339,398,469,537,592"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,21",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,194,268,344,403,474,1328",
+                        "endColumns": "68,69,73,75,58,70,67,54",
+                        "endOffsets": "119,189,263,339,398,469,537,1378"
+                    }
+                },
+                {
+                    "source": "/Users/gabrielc/.gradle/caches/transforms-3/ca05dc786209b506247726a2a249bb23/transformed/design-23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18,22,23",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "650,710,780,851,923,981,1039,1145,1383,1446",
+                        "endLines": "11,12,13,14,15,16,17,18,22,26",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "705,775,846,918,976,1034,1140,1204,1441,1623"
+                    }
+                },
+                {
+                    "source": "/Users/gabrielc/.gradle/caches/transforms-3/4522950b509945073406f21d2d8a07a7/transformed/materialize-0.8.8/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1273",
+                        "endColumns": "54",
+                        "endOffsets": "1323"
+                    }
+                },
+                {
+                    "source": "/Users/gabrielc/.gradle/caches/transforms-3/2b4c0f8bdca1469ffbee97c491711eb3/transformed/materialdrawer-5.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1209",
+                        "endColumns": "63",
+                        "endOffsets": "1268"
+                    }
+                },
+                {
+                    "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/packaged_res/debug/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,54",
+                        "endOffsets": "103,158"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "542,595",
+                        "endColumns": "52,54",
+                        "endOffsets": "590,645"
+                    }
+                }
+            ]
+        }
+    ]
+}

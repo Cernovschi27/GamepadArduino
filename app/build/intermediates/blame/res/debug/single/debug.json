@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_r2.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_r2.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_r2.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_r2.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_jump.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_jump.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_start.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_start.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_punch.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_punch.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_l1.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_l1.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_cross.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_cross.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_machine_gun.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_machine_gun.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_dfm.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_dfm.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/layout_view_drawer_header.xml.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/layout/view_drawer_header.xml"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_machine_gun.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_machine_gun.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_run.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_run.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_r1.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_r1.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_dfm.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_dfm.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable_shape_gamepad_stick.xml.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable/shape_gamepad_stick.xml"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_start.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_start.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_change_target.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_change_target.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_flares.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_flares.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/layout_fragment_basic_gamepad_1.xml.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/layout/fragment_basic_gamepad_1.xml"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_dfm.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_dfm.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_square.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_square.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/layout_view_toolbar_main.xml.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/layout/view_toolbar_main.xml"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_l2.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_l2.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_l3.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_l3.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_bomb.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_bomb.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_r3.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_r3.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_square.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_square.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_r3.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_r3.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_start.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_start.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_change_weapon.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_change_weapon.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_l1.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_l1.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flares.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_flares.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_l2.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_l2.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_bomb.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_bomb.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_l3.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_l3.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_triangle.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_triangle.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_l3.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_l3.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_camera.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_camera.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_circle.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_circle.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_missile.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_missile.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_square.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_square.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_jump.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_jump.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_change_target.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_change_target.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_jump.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_jump.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_missile.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_missile.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_select.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_select.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_r1.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_r1.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_punch.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_punch.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_select.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_select.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_fullscreen.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_fullscreen.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_triangle.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_triangle.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_fullscreen.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_fullscreen.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable_shape_gamepad_bg.xml.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable/shape_gamepad_bg.xml"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_camera.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_camera.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_bomb.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_bomb.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_missile.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_missile.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_jump.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_jump.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_l3.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_l3.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/layout_fragment_device_connection.xml.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/layout/fragment_device_connection.xml"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_select.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_select.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_change_target.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_change_target.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_change_weapon.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_change_weapon.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_run.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_run.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_start.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_start.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flares.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_flares.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_circle.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_circle.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_r1.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_r1.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_r3.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_r3.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_triangle.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_triangle.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_dfm.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_dfm.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_square.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_square.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_l2.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_l2.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_camera.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_camera.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_run.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_run.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_bomb.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_bomb.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_cross.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_cross.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_select.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_select.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_r2.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_r2.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_change_weapon.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_change_weapon.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_punch.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_punch.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_run.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_run.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_flares.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_flares.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_change_weapon.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_change_weapon.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_circle.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_circle.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_triangle.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_triangle.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_r1.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_r1.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_machine_gun.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_machine_gun.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_punch.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_punch.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_fullscreen.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_fullscreen.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_fullscreen.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_fullscreen.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_missile.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_missile.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_r2.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_r2.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_cross.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_cross.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_cross.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_cross.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_machine_gun.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_machine_gun.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_camera.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_camera.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_btn_l1.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_btn_l1.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_l2.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_l2.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_btn_l1.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xxhdpi/ic_btn_l1.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_change_target.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-mdpi/ic_change_target.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_btn_r3.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-xhdpi/ic_btn_r3.png"
+    },
+    {
+        "merged": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_btn_circle.png.flat",
+        "source": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/res/drawable-hdpi/ic_btn_circle.png"
+    }
+]

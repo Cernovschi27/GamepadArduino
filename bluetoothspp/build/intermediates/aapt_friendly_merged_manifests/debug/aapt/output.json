@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "applicationId": "app.applayer.bluetotohspp.library",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "bluetoothspp-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "app.applayer.bluetotohspp.library",
+        "split": ""
+      }
+    }
+  ]
+}

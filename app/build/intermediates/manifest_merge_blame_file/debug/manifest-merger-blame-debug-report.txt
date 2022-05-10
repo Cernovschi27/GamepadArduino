@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Joystick.applayer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->[:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+11-->[:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->[:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-74
+12-->[:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-71
+13
+14    <uses-permission-sdk-23 android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->[:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-86
+14-->[:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:29-83
+15    <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->[:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-88
+15-->[:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:29-85
+16
+17    <application
+17-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:5:5-25:19
+18        android:name="com.Joystick.applayer.ArduinoJoystick"
+18-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:6:9-61
+19        android:allowBackup="true"
+19-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:7:9-35
+20        android:debuggable="true"
+21        android:icon="@drawable/ic_launcher"
+21-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:8:9-45
+22        android:label="@string/app_name"
+22-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:9:9-41
+23        android:supportsRtl="true"
+23-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:10:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:11:9-40
+26        <activity
+26-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:12:9-20:20
+27            android:name="com.Joystick.applayer.view.MainActivity"
+27-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:13:13-67
+28            android:screenOrientation="userLandscape" >
+28-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:14:13-54
+29            <intent-filter>
+29-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:15:13-19:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:16:17-69
+30-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:16:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:18:17-77
+32-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:18:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:22:9-24:57
+36            android:name="app.applayer.bluetotohspp.library.DeviceList"
+36-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:23:13-72
+37            android:screenOrientation="userLandscape" />
+37-->/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:24:13-54
+38    </application>
+39
+40</manifest>

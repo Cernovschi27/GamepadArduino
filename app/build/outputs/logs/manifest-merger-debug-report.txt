@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [com.github.afollestad:assent:0.2.2] /Users/gabrielc/.gradle/caches/transforms-3/60c4fedc021f95bb56c62113d36d7201/transformed/assent-0.2.2/AndroidManifest.xml:2:1-14:12
+MERGED from [com.mikepenz:materialdrawer:5.2.0] /Users/gabrielc/.gradle/caches/transforms-3/2b4c0f8bdca1469ffbee97c491711eb3/transformed/materialdrawer-5.2.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.6.0] /Users/gabrielc/.gradle/caches/transforms-3/5f36df41e07c26802fd97b1c07fb7940/transformed/verticalseekbar-0.6.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.mikepenz:fastadapter:1.4.1] /Users/gabrielc/.gradle/caches/transforms-3/d5ec014bd2d2a99bd5e7236e66a90b89/transformed/fastadapter-1.4.1/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:iconics-core:2.5.11] /Users/gabrielc/.gradle/caches/transforms-3/d8029009bff6085980e56fe096d14789/transformed/iconics-core-2.5.11/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/ca05dc786209b506247726a2a249bb23/transformed/design-23.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.mikepenz:materialize:0.8.8] /Users/gabrielc/.gradle/caches/transforms-3/4522950b509945073406f21d2d8a07a7/transformed/materialize-0.8.8/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/7355d6150310c1dc4cf9616928d7f616/transformed/appcompat-v7-23.4.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.mikepenz:google-material-typeface:2.2.0.1.original] /Users/gabrielc/.gradle/caches/transforms-3/87971b414646b64580c63e85b2e8ee15/transformed/google-material-typeface-2.2.0.1.original/AndroidManifest.xml:17:1-29:12
+MERGED from [com.jmedeisis:bugstick:0.2.2] /Users/gabrielc/.gradle/caches/transforms-3/b18ca1acf8a0936dca509075140e1319/transformed/bugstick-0.2.2/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/170b4c38a05593b0458d258174b9cbfe/transformed/animated-vector-drawable-23.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/b2b2bc6591346d69472f41f4dd0f7592/transformed/support-vector-drawable-23.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v13:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/0eb7fefd623e14f9e41a360e80cc7bb4/transformed/support-v13-23.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/18b10427d28aee7054732439a368ab89/transformed/recyclerview-v7-23.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/302a69c7bf07df23918b73edb9f8fbc7/transformed/support-v4-23.4.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-19:19
+MERGED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-19:19
+MERGED from [com.github.afollestad:assent:0.2.2] /Users/gabrielc/.gradle/caches/transforms-3/60c4fedc021f95bb56c62113d36d7201/transformed/assent-0.2.2/AndroidManifest.xml:12:5-20
+MERGED from [com.github.afollestad:assent:0.2.2] /Users/gabrielc/.gradle/caches/transforms-3/60c4fedc021f95bb56c62113d36d7201/transformed/assent-0.2.2/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:design:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/ca05dc786209b506247726a2a249bb23/transformed/design-23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/ca05dc786209b506247726a2a249bb23/transformed/design-23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/7355d6150310c1dc4cf9616928d7f616/transformed/appcompat-v7-23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/7355d6150310c1dc4cf9616928d7f616/transformed/appcompat-v7-23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.mikepenz:google-material-typeface:2.2.0.1.original] /Users/gabrielc/.gradle/caches/transforms-3/87971b414646b64580c63e85b2e8ee15/transformed/google-material-typeface-2.2.0.1.original/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:google-material-typeface:2.2.0.1.original] /Users/gabrielc/.gradle/caches/transforms-3/87971b414646b64580c63e85b2e8ee15/transformed/google-material-typeface-2.2.0.1.original/AndroidManifest.xml:27:5-20
+MERGED from [com.jmedeisis:bugstick:0.2.2] /Users/gabrielc/.gradle/caches/transforms-3/b18ca1acf8a0936dca509075140e1319/transformed/bugstick-0.2.2/AndroidManifest.xml:11:5-14:19
+MERGED from [com.jmedeisis:bugstick:0.2.2] /Users/gabrielc/.gradle/caches/transforms-3/b18ca1acf8a0936dca509075140e1319/transformed/bugstick-0.2.2/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/170b4c38a05593b0458d258174b9cbfe/transformed/animated-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/170b4c38a05593b0458d258174b9cbfe/transformed/animated-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/b2b2bc6591346d69472f41f4dd0f7592/transformed/support-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/b2b2bc6591346d69472f41f4dd0f7592/transformed/support-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v13:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/0eb7fefd623e14f9e41a360e80cc7bb4/transformed/support-v13-23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/0eb7fefd623e14f9e41a360e80cc7bb4/transformed/support-v13-23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/302a69c7bf07df23918b73edb9f8fbc7/transformed/support-v4-23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/302a69c7bf07df23918b73edb9f8fbc7/transformed/support-v4-23.4.0/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:6:9-61
+activity#com.Joystick.applayer.view.MainActivity
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:screenOrientation
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:14:13-54
+	android:name
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:13:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:18:27-74
+activity#app.applayer.bluetotohspp.library.DeviceList
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:22:9-24:57
+MERGED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-81
+MERGED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-81
+	android:screenOrientation
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:24:13-54
+	android:name
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml:23:13-72
+uses-sdk
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+MERGED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.afollestad:assent:0.2.2] /Users/gabrielc/.gradle/caches/transforms-3/60c4fedc021f95bb56c62113d36d7201/transformed/assent-0.2.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.afollestad:assent:0.2.2] /Users/gabrielc/.gradle/caches/transforms-3/60c4fedc021f95bb56c62113d36d7201/transformed/assent-0.2.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialdrawer:5.2.0] /Users/gabrielc/.gradle/caches/transforms-3/2b4c0f8bdca1469ffbee97c491711eb3/transformed/materialdrawer-5.2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialdrawer:5.2.0] /Users/gabrielc/.gradle/caches/transforms-3/2b4c0f8bdca1469ffbee97c491711eb3/transformed/materialdrawer-5.2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.6.0] /Users/gabrielc/.gradle/caches/transforms-3/5f36df41e07c26802fd97b1c07fb7940/transformed/verticalseekbar-0.6.0/AndroidManifest.xml:23:5-25:41
+MERGED from [com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.6.0] /Users/gabrielc/.gradle/caches/transforms-3/5f36df41e07c26802fd97b1c07fb7940/transformed/verticalseekbar-0.6.0/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:fastadapter:1.4.1] /Users/gabrielc/.gradle/caches/transforms-3/d5ec014bd2d2a99bd5e7236e66a90b89/transformed/fastadapter-1.4.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:1.4.1] /Users/gabrielc/.gradle/caches/transforms-3/d5ec014bd2d2a99bd5e7236e66a90b89/transformed/fastadapter-1.4.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.5.11] /Users/gabrielc/.gradle/caches/transforms-3/d8029009bff6085980e56fe096d14789/transformed/iconics-core-2.5.11/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.5.11] /Users/gabrielc/.gradle/caches/transforms-3/d8029009bff6085980e56fe096d14789/transformed/iconics-core-2.5.11/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/ca05dc786209b506247726a2a249bb23/transformed/design-23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/ca05dc786209b506247726a2a249bb23/transformed/design-23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.mikepenz:materialize:0.8.8] /Users/gabrielc/.gradle/caches/transforms-3/4522950b509945073406f21d2d8a07a7/transformed/materialize-0.8.8/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:0.8.8] /Users/gabrielc/.gradle/caches/transforms-3/4522950b509945073406f21d2d8a07a7/transformed/materialize-0.8.8/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/7355d6150310c1dc4cf9616928d7f616/transformed/appcompat-v7-23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/7355d6150310c1dc4cf9616928d7f616/transformed/appcompat-v7-23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.mikepenz:google-material-typeface:2.2.0.1.original] /Users/gabrielc/.gradle/caches/transforms-3/87971b414646b64580c63e85b2e8ee15/transformed/google-material-typeface-2.2.0.1.original/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:google-material-typeface:2.2.0.1.original] /Users/gabrielc/.gradle/caches/transforms-3/87971b414646b64580c63e85b2e8ee15/transformed/google-material-typeface-2.2.0.1.original/AndroidManifest.xml:23:5-25:41
+MERGED from [com.jmedeisis:bugstick:0.2.2] /Users/gabrielc/.gradle/caches/transforms-3/b18ca1acf8a0936dca509075140e1319/transformed/bugstick-0.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jmedeisis:bugstick:0.2.2] /Users/gabrielc/.gradle/caches/transforms-3/b18ca1acf8a0936dca509075140e1319/transformed/bugstick-0.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/170b4c38a05593b0458d258174b9cbfe/transformed/animated-vector-drawable-23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/170b4c38a05593b0458d258174b9cbfe/transformed/animated-vector-drawable-23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/b2b2bc6591346d69472f41f4dd0f7592/transformed/support-vector-drawable-23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/b2b2bc6591346d69472f41f4dd0f7592/transformed/support-vector-drawable-23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v13:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/0eb7fefd623e14f9e41a360e80cc7bb4/transformed/support-v13-23.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/0eb7fefd623e14f9e41a360e80cc7bb4/transformed/support-v13-23.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/18b10427d28aee7054732439a368ab89/transformed/recyclerview-v7-23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/gabrielc/.gradle/caches/transforms-3/18b10427d28aee7054732439a368ab89/transformed/recyclerview-v7-23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/302a69c7bf07df23918b73edb9f8fbc7/transformed/support-v4-23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/302a69c7bf07df23918b73edb9f8fbc7/transformed/support-v4-23.4.0/AndroidManifest.xml:20:5-43
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/gabrielc/.gradle/caches/transforms-3/7355d6150310c1dc4cf9616928d7f616/transformed/appcompat-v7-23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-71
+uses-permission-sdk-23#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-86
+	android:name
+		ADDED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:29-83
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-88
+	android:name
+		ADDED from [:bluetoothspp] /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:29-85

@@ -1,0 +1,23 @@
+app/applayer/bluetotohspp/library/BluetoothSPP.java
+ app.applayer.bluetotohspp.library.BluetoothSPP
+ app.applayer.bluetotohspp.library.BluetoothSPP$1
+ app.applayer.bluetotohspp.library.BluetoothSPP$2
+ app.applayer.bluetotohspp.library.BluetoothSPP$3
+ app.applayer.bluetotohspp.library.BluetoothSPP$AutoConnectionListener
+ app.applayer.bluetotohspp.library.BluetoothSPP$BluetoothConnectionListener
+ app.applayer.bluetotohspp.library.BluetoothSPP$BluetoothStateListener
+ app.applayer.bluetotohspp.library.BluetoothSPP$OnDataReceivedListener
+app/applayer/bluetotohspp/library/BuildConfig.java
+ app.applayer.bluetotohspp.library.BuildConfig
+app/applayer/bluetotohspp/library/BluetoothState.java
+ app.applayer.bluetotohspp.library.BluetoothState
+app/applayer/bluetotohspp/library/BluetoothService.java
+ app.applayer.bluetotohspp.library.BluetoothService
+ app.applayer.bluetotohspp.library.BluetoothService$AcceptThread
+ app.applayer.bluetotohspp.library.BluetoothService$ConnectThread
+ app.applayer.bluetotohspp.library.BluetoothService$ConnectedThread
+app/applayer/bluetotohspp/library/DeviceList.java
+ app.applayer.bluetotohspp.library.DeviceList
+ app.applayer.bluetotohspp.library.DeviceList$1
+ app.applayer.bluetotohspp.library.DeviceList$2
+ app.applayer.bluetotohspp.library.DeviceList$3

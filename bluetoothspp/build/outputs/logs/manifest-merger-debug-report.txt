@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:1:1-16:12
+	package
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:2:5-48
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:7:22-71
+uses-permission-sdk-23#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:9:5-86
+	android:name
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:9:29-83
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:10:5-88
+	android:name
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:10:29-85
+application
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:12:5-14:19
+activity#app.applayer.bluetotohspp.library.DeviceList
+ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:13:9-81
+	android:name
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml:13:19-78
+uses-sdk
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+		ADDED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml
+		INJECTED from /Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/bluetoothspp/src/main/AndroidManifest.xml

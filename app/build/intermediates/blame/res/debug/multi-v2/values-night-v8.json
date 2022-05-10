@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/gabrielc/Downloads/Droid2JoyStick-master/ArduinoJoystick/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/gabrielc/.gradle/caches/transforms-3/7355d6150310c1dc4cf9616928d7f616/transformed/appcompat-v7-23.4.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "855,925,1009,1093,1189,1291,1393",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "920,1004,1088,1184,1286,1388,1482"
+                    }
+                },
+                {
+                    "source": "/Users/gabrielc/.gradle/caches/transforms-3/4522950b509945073406f21d2d8a07a7/transformed/materialize-0.8.8/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,141,263,361,495,573,687,753",
+                        "endColumns": "85,121,97,133,77,113,65,101",
+                        "endOffsets": "136,258,356,490,568,682,748,850"
+                    }
+                }
+            ]
+        }
+    ]
+}
